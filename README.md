@@ -1,6 +1,6 @@
 # 🧪 Soil Image Classification
 
-This repository contains a soil classification project using image data and machine learning techniques. This project is built using the [Annam AI Soil Challenge Template](https://github.com/annam-ai-iitropar/soil-classification-challenge-template).
+This repository contains a soil classification project using image data and machine learning techniques. This project is built under the Annam AI Soil Challenge hosted on Kaggle
 
 ---
 
